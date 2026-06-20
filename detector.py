@@ -8,10 +8,10 @@ import smtplib
 from email.mime.text import MIMEText
 
 
-SENDER_EMAIL = "chethanarya567@gmail.com"
-APP_PASSWORD = "dnyvnqknwmgousle"
+SENDER_EMAIL = "ADD SENDER EMAIL ID"
+APP_PASSWORD = "ADD SENDER Gmail app password"
 
-RECEIVER_EMAIL = "chethanarya567@gmail.com"
+RECEIVER_EMAIL = "ADD RECIVER EMAIL ID"
 
 response = requests.get(URL)
 
